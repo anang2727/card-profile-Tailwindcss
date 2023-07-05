@@ -1,0 +1,33 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: poppins;
+    color: #fff;
+
+    text-decoration: none;
+}
+section {
+    background-color: #151935;
+    height: 100vh;
+    border: 1px solid #000324;
+}
+h2 {
+    color: white;
+    text-align: center;
+}
+.container {
+    margin: 0 auto;
+    padding: 20px;
+    width: 390px;
+}
+.container .fa-solid.fa-user{
+    color: #fff !important;
+    font-size: 2em;
+}
+.container .icon {
+    color: #fff;
+}
+.one .fa-instagram{
+    color: red;
+}
